@@ -1,0 +1,46 @@
+﻿1. What is a computer really doing whenever you type a letter on a keyboard? 
+   1. As described in the article, a computer is taking the input from the keyboard, referring back to it’s memory, and displaying its corresponding search on the screen. The computer waits for a signal from the keyboard to turn that data into characters. Then taking those characters and referencing them through the computer’s memory. The computer then takes that reference and outputs it onto the screen. Although the process may appear simple, the computer is looping it’s processes over and over again until one gets their desired results. 
+
+
+
+
+2. How do computers use input and output to create experiences? 
+   1. Computers use input and output to create experiences by taking the information given and then displaying it. To break it down more, the computer goes character by character to sort the components into a routine called a function.  As described in the article, computers take that function and branch it outwards, similar to a tree. The process is then repeated over and over again. 
+
+
+
+
+
+
+3. Explain why software products are essentially “infinitely reproducible nothings”?
+   1. Software products are considered infinitely reproducible nothing because it isn’t a tangible item. It’s a digital component that we use everyday to communicate with our world using data. You cannot take software out of a computer and have it stand alone as its own thing. Software is accessible to us through hardware. 
+
+
+4. Explain in your own words how code becomes software? 
+   1. To start, code is a sequence of symbols that is retrieved from the machine to start it’s computation. Software is the process that takes code from it’s initial input to it’s final output. Programming is the tool that ignites this process
+
+
+5. Explain “algorithms” in your own words.
+   1. Algorithms are software that perform sophisticated calculations for the user. 
+
+
+6. Explain the DRY principle.
+   1. DRY also known as Don’t Repeat Yourself is a principle used for programming, where the user performs an action once. Where the computer repeats the functions afterwards
+
+
+7. What is object-oriented programming?
+   1. Object-oriented programming is a filing system for code. Where the user can name a piece of data, and that data is placed within a stored box. 
+
+
+8. Explain data and how it relates to code.
+   1. Data is information that the computer uses to perform its functions. 
+9. What is a framework?
+   1. A platform used to develop code.
+
+
+10. What is debugging?
+   1. Debugging is the process of checking your code for errors 
+
+
+11. Now, with more of an understanding of what code is, why do you want to learn how to code? 
+   1. I want to learn how to code because it is not a singular medium. You can learn coding as a skill and utilize it for whatever you want to create. Since code is fundamentally in everything, you can literally do anything. Whether that’s designing a prototype online for your business, or preventing cyber attacks. Personally, I want to know how to code because our world is adapting quickly to technology and I want to be able to understand these changes. Soon we as a society are going to have to learn computations in the same way we do math, science, or reading. Computing is not a luxury, it is essential. Especially when it comes to the complex systemic challenges we face today.
