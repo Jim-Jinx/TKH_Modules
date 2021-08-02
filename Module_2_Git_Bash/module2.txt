@@ -1,0 +1,10 @@
+﻿1. What is Git and how is it different from Github
+   1. Git is a version control tool that we use to track coding changes within a project. Github is a platform that hosts repositories (a.k.a projects) that we can integrate with Git. Github allows one to share repositories, collaborate, and pull changes while presenting an overarching portfolio. 
+
+
+2. Why use the terminal
+   1. Using the terminal is best practice compared to interacting with the GUI because you can get an idea of how Git functions and contributes to the overall workflow. 
+
+
+3. Explain three benefits of version control
+   1. Three benefits of version control include being able to see recent changes to your project; being able to work on several versions of a project without changing the entire thing; and being able to pull any harmful or non-efficient features without losing your work.
