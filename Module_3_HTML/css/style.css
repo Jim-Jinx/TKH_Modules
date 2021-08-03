@@ -164,7 +164,7 @@ input[type=submit]{
     background-color: var(--third-color);
     color: white;
     padding: 10px
-    width: calc(30vw + .5rem);
+    width:calc(30vw + .5rem);
     border-radius:8px;
     box-shadow:var(--shadow);
 }
