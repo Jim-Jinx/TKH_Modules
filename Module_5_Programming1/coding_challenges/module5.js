@@ -1,6 +1,0 @@
-const weekly_income = parseInt(prompt("How much do you make in a week?"))
-const food_cost = parseInt(prompt("How much do you spend on food?"))
-const housing_cost = parseInt(prompt("How much do you spend on housing? Rent or Mortage"))
-const transportation_cost = parseInt(prompt("How much do you spend on transporation?"))
-const other_cost = parseInt(prompt("What other costs do you spend money on?"))
-const savings = parseInt(prompt("How much do you save?"))
